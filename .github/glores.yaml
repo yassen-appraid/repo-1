@@ -2,7 +2,7 @@ repo-info:
 - name: repo-1
   url: https://github.com/yassen-appraid/repo-1.git
   branch: main
-  commit-hash: a7a9eeef5dee1ba64ae5976c4f362f6f2eadf11a
+  commit-hash: 51494db7d6efa01ad8ed9d31eec74ae625462a44
 ws-status:
 - name: repo-2
   url: https://github.com/yassen-appraid/repo-2.git
