@@ -2,6 +2,9 @@ name: On PR Merge
 
 on: push
 
+permissions:
+  contents: write
+
 jobs:
   run-script-on-merge:
     # if: github.event.pull_request.merged == true
