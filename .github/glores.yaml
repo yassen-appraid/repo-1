@@ -2,16 +2,16 @@ repo-info:
 - name: repo-1
   url: https://github.com/yassen-appraid/repo-1.git
   branch: main
-  commit-hash: 51494db7d6efa01ad8ed9d31eec74ae625462a44
+  commit-hash: feba88a398c0fa0e789c8468481fe187cdc50223
 ws-status:
 - name: repo-2
   url: https://github.com/yassen-appraid/repo-2.git
   branch: main
-  commit-hash: 7121928cd9074b5f988c71ee15db6a478e23e91d
+  commit-hash: 681869db5576ea99d41794010dd5a77c57d7b6b5
 - name: repo-4
   url: https://github.com/yassen-appraid/repo-4.git
   branch: main
-  commit-hash: 8aa43d300241c6abd64c40cc105f95c67b5aea79
+  commit-hash: 7ab7e0f4a0b79fc6dd1660cfc909898802e4c774
 - name: glores
   url: https://github.com/yassen-appraid/glores.git
   branch: main
@@ -19,8 +19,8 @@ ws-status:
 - name: repo-3
   url: https://github.com/yassen-appraid/repo-3.git
   branch: main
-  commit-hash: 185aafe9b45951378592b0766178dd28012c919c
+  commit-hash: d1fb23bfd2d8fcb5f9f82d316027237108df1ce8
 - name: repo-5
   url: https://github.com/yassen-appraid/repo-5.git
   branch: main
-  commit-hash: 1e265e935d7fbbb80d254204e2f8659a9dc65cf6
+  commit-hash: 457d6c608c6638704584a5b9f981453e89701d11
