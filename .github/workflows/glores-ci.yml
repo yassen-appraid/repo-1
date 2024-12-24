@@ -1,13 +1,16 @@
 name: On PR Merge
 
-on: push
+on:
+  pull_request:
+    types:
+      - closed  # Triggers when a PR is closed
 
 permissions:
   contents: write
 
 jobs:
   run-script-on-merge:
-    # if: github.event.pull_request.merged == true
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
